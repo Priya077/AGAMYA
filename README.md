@@ -1,1 +1,1 @@
-# Group Project for 'AGAMYA', flagship event of Technofania'21 conducted by OSOC,NIT Trichy.
+# Ready2Hire----------Group Project(developed by Team:Webnocrates) for 'AGAMYA', flagship event of Technofania'21 conducted by OSOC,NIT Trichy. Ready2Hire is a platform with opportunities to grow and explore as a professional.
